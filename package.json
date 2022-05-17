@@ -1,0 +1,33 @@
+{
+  "name": "imagination-media-xml-converter",
+  "version": "0.0.1",
+  "description": "A library to converter any Json into XML.",
+  "main": "src/index.js",
+  "repository": "",
+  "author": "silveiratalita",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine",
+    "cover": "nyc jasmine",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "eslint src/** --ext .js"
+  },
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-prettier": "^6.0.0",
+    "jasmine": "^3.4.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "nodemon": "^2.0.16",
+    "nyc": "^14.1.1",
+    "prettier": "^1.18.2"
+  },
+  "files": [
+    "src/**/*"
+  ]
+}
