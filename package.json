@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A library to converter any Json into XML.",
   "main": "src/index.js",
-  "repository": "",
+  "repository": "https://github.com/silveiratalita/imagination-media-xml-converter.git",
   "author": "silveiratalita",
   "license": "MIT",
   "scripts": {
