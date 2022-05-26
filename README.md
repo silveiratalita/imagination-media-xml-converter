@@ -8,20 +8,19 @@ The installation of this package is done through NPM
 
 1. Add the private repository referente if your have, to file **./.npmrc** of **PROJECT**.
 
-````bash
+```bash
 # ./.npmrc
-registry=
-always-auth=true
+registry=always-auth=true
 
 2. Add the library through **NPM**.
-```bash
+
 # npm
 npm install imagination-media-xml-converter --save
 
 # yarn
 yarn add imagination-media-xml-converter
 
-````
+```
 
 # How to Use
 

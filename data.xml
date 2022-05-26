@@ -1,0 +1,710 @@
+<base_currency_code>USD</base_currency_code>
+<base_discount_amount>0</base_discount_amount>
+<base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+<base_grand_total>312.75</base_grand_total>
+<base_shipping_amount>0</base_shipping_amount>
+<base_shipping_discount_amount>0</base_shipping_discount_amount>
+<base_shipping_discount_tax_compensation_amnt>0</base_shipping_discount_tax_compensation_amnt>
+<base_shipping_incl_tax>0</base_shipping_incl_tax>
+<base_shipping_tax_amount>0</base_shipping_tax_amount>
+<base_subtotal>312.75</base_subtotal>
+<base_subtotal_incl_tax>312.75</base_subtotal_incl_tax>
+<base_tax_amount>0</base_tax_amount>
+<base_to_global_rate>1</base_to_global_rate>
+<base_to_order_rate>1</base_to_order_rate>
+<base_total_due>312.75</base_total_due>
+<billing_address>
+    <address_type>billing</address_type>
+    <city>Boca Raton</city>
+    <company>Imagination Media</company>
+    <country_id>US</country_id>
+    <customer_address_id>1253</customer_address_id>
+    <email>test@imaginationmedia.com</email>
+    <entity_id>1696</entity_id>
+    <firstname>Firstname</firstname>
+    <lastname>Lastname</lastname>
+    <parent_id>844</parent_id>
+    <postcode>33432</postcode>
+    <region>Florida</region>
+    <region_code>FL</region_code>
+    <region_id>170</region_id>
+    <street>1515 S Federal Hwy</street>
+    <street>Suite 304</street>
+    <telephone>1-800-496-9311</telephone>
+</billing_address>
+<billing_address_id>1696</billing_address_id>
+<created_at>2021-03-24 16:07:30</created_at>
+<customer_email>test@imaginationmedia.com</customer_email>
+<customer_firstname>Firstname</customer_firstname>
+<customer_gender>0</customer_gender>
+<customer_group_id>7</customer_group_id>
+<customer_id>1355</customer_id>
+<customer_is_guest>0</customer_is_guest>
+<customer_lastname>Lastname</customer_lastname>
+<customer_note_notify>1</customer_note_notify>
+<discount_amount>0</discount_amount>
+<discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+<email_sent>1</email_sent>
+<entity_id>844</entity_id>
+<extension_attributes>
+    <b2b_shipping_code>Will Call</b2b_shipping_code>
+    <b2b_shipping_method>ups_03</b2b_shipping_method>
+    <base_gift_cards_amount>0</base_gift_cards_amount>
+    <bold_order_comment>If possible, please call when order is ready or estimated time and I will pick up this afternoon.</bold_order_comment>
+    <company_order_attributes>
+        <company_id>632</company_id>
+        <company_name>Imagination Media</company_name>
+    </company_order_attributes>
+    <customer_po_number>5</customer_po_number>
+    <gift_cards_amount>0</gift_cards_amount>
+    <gw_base_price>0.0000</gw_base_price>
+    <gw_card_base_price>0.0000</gw_card_base_price>
+    <gw_card_price>0.0000</gw_card_price>
+    <gw_items_base_price>0.0000</gw_items_base_price>
+    <gw_items_price>0.0000</gw_items_price>
+    <gw_price>0.0000</gw_price>
+    <is_syspro_sync>true</is_syspro_sync>
+    <shipping_assignments>
+        <items>
+            <amount_refunded>0</amount_refunded>
+            <base_amount_refunded>0</base_amount_refunded>
+            <base_discount_amount>0</base_discount_amount>
+            <base_discount_invoiced>0</base_discount_invoiced>
+            <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+            <base_original_price>72</base_original_price>
+            <base_price>34.95</base_price>
+            <base_price_incl_tax>34.95</base_price_incl_tax>
+            <base_row_invoiced>0</base_row_invoiced>
+            <base_row_total>34.95</base_row_total>
+            <base_row_total_incl_tax>34.95</base_row_total_incl_tax>
+            <base_tax_amount>0</base_tax_amount>
+            <base_tax_invoiced>0</base_tax_invoiced>
+            <created_at>2021-03-24 16:07:30</created_at>
+            <discount_amount>0</discount_amount>
+            <discount_invoiced>0</discount_invoiced>
+            <discount_percent>0</discount_percent>
+            <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+            <free_shipping>0</free_shipping>
+            <is_qty_decimal>0</is_qty_decimal>
+            <is_virtual>0</is_virtual>
+            <item_id>3655</item_id>
+            <name>4191</name>
+            <no_discount>0</no_discount>
+            <order_id>844</order_id>
+            <original_price>72</original_price>
+            <price>34.95</price>
+            <price_incl_tax>34.95</price_incl_tax>
+            <product_id>50203</product_id>
+            <product_option>
+                <extension_attributes>
+                    <configurable_item_options>
+                        <option_id>278</option_id>
+                        <option_value>16328</option_value>
+                    </configurable_item_options>
+                    <configurable_item_options>
+                        <option_id>1726</option_id>
+                        <option_value>17800</option_value>
+                    </configurable_item_options>
+                </extension_attributes>
+            </product_option>
+            <product_type>configurable</product_type>
+            <qty_canceled>0</qty_canceled>
+            <qty_invoiced>0</qty_invoiced>
+            <qty_ordered>1</qty_ordered>
+            <qty_refunded>0</qty_refunded>
+            <qty_returned>0</qty_returned>
+            <qty_shipped>0</qty_shipped>
+            <quote_item_id>13697</quote_item_id>
+            <row_invoiced>0</row_invoiced>
+            <row_total>34.95</row_total>
+            <row_total_incl_tax>34.95</row_total_incl_tax>
+            <row_weight>3.1311</row_weight>
+            <sku>123</sku>
+            <store_id>1</store_id>
+            <tax_amount>0</tax_amount>
+            <tax_invoiced>0</tax_invoiced>
+            <tax_percent>0</tax_percent>
+            <updated_at>2021-03-24 16:12:17</updated_at>
+            <weight>3.1311</weight>
+        </items>
+        <items>
+            <amount_refunded>0</amount_refunded>
+            <base_amount_refunded>0</base_amount_refunded>
+            <base_discount_amount>0</base_discount_amount>
+            <base_discount_invoiced>0</base_discount_invoiced>
+            <base_price>0</base_price>
+            <base_row_invoiced>0</base_row_invoiced>
+            <base_row_total>0</base_row_total>
+            <base_row_total_incl_tax>0</base_row_total_incl_tax>
+            <base_tax_amount>0</base_tax_amount>
+            <base_tax_invoiced>0</base_tax_invoiced>
+            <created_at>2021-03-24 16:07:30</created_at>
+            <discount_amount>0</discount_amount>
+            <discount_invoiced>0</discount_invoiced>
+            <discount_percent>0</discount_percent>
+            <free_shipping>0</free_shipping>
+            <is_qty_decimal>0</is_qty_decimal>
+            <is_virtual>0</is_virtual>
+            <item_id>3658</item_id>
+            <name>4191-LG</name>
+            <no_discount>0</no_discount>
+            <order_id>844</order_id>
+            <original_price>0</original_price>
+            <parent_item>
+                <amount_refunded>0</amount_refunded>
+                <base_amount_refunded>0</base_amount_refunded>
+                <base_discount_amount>0</base_discount_amount>
+                <base_discount_invoiced>0</base_discount_invoiced>
+                <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+                <base_original_price>72</base_original_price>
+                <base_price>34.95</base_price>
+                <base_price_incl_tax>34.95</base_price_incl_tax>
+                <base_row_invoiced>0</base_row_invoiced>
+                <base_row_total>34.95</base_row_total>
+                <base_row_total_incl_tax>34.95</base_row_total_incl_tax>
+                <base_tax_amount>0</base_tax_amount>
+                <base_tax_invoiced>0</base_tax_invoiced>
+                <created_at>2021-03-24 16:07:30</created_at>
+                <discount_amount>0</discount_amount>
+                <discount_invoiced>0</discount_invoiced>
+                <discount_percent>0</discount_percent>
+                <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+                <free_shipping>0</free_shipping>
+                <is_qty_decimal>0</is_qty_decimal>
+                <is_virtual>0</is_virtual>
+                <item_id>3655</item_id>
+                <name>4191</name>
+                <no_discount>0</no_discount>
+                <order_id>844</order_id>
+                <original_price>72</original_price>
+                <price>34.95</price>
+                <price_incl_tax>34.95</price_incl_tax>
+                <product_id>50203</product_id>
+                <product_option>
+                    <extension_attributes>
+                        <configurable_item_options>
+                            <option_id>278</option_id>
+                            <option_value>16328</option_value>
+                        </configurable_item_options>
+                        <configurable_item_options>
+                            <option_id>1726</option_id>
+                            <option_value>17800</option_value>
+                        </configurable_item_options>
+                    </extension_attributes>
+                </product_option>
+                <product_type>configurable</product_type>
+                <qty_canceled>0</qty_canceled>
+                <qty_invoiced>0</qty_invoiced>
+                <qty_ordered>1</qty_ordered>
+                <qty_refunded>0</qty_refunded>
+                <qty_returned>0</qty_returned>
+                <qty_shipped>0</qty_shipped>
+                <quote_item_id>13697</quote_item_id>
+                <row_invoiced>0</row_invoiced>
+                <row_total>34.95</row_total>
+                <row_total_incl_tax>34.95</row_total_incl_tax>
+                <row_weight>3.1311</row_weight>
+                <sku>1234</sku>
+                <store_id>1</store_id>
+                <tax_amount>0</tax_amount>
+                <tax_invoiced>0</tax_invoiced>
+                <tax_percent>0</tax_percent>
+                <updated_at>2021-03-24 16:12:17</updated_at>
+                <weight>3.1311</weight>
+            </parent_item>
+            <parent_item_id>3655</parent_item_id>
+            <price>72</price>
+            <product_id>50209</product_id>
+            <product_type>simple</product_type>
+            <qty_canceled>0</qty_canceled>
+            <qty_invoiced>0</qty_invoiced>
+            <qty_ordered>1</qty_ordered>
+            <qty_refunded>0</qty_refunded>
+            <qty_returned>0</qty_returned>
+            <qty_shipped>0</qty_shipped>
+            <quote_item_id>13700</quote_item_id>
+            <row_invoiced>0</row_invoiced>
+            <row_total>0</row_total>
+            <row_total_incl_tax>0</row_total_incl_tax>
+            <row_weight>0</row_weight>
+            <sku>12345</sku>
+            <store_id>1</store_id>
+            <tax_amount>0</tax_amount>
+            <tax_invoiced>0</tax_invoiced>
+            <tax_percent>0</tax_percent>
+            <updated_at>2021-03-24 16:07:30</updated_at>
+            <weight>3.1311</weight>
+        </items>
+        <items>
+            <amount_refunded>0</amount_refunded>
+            <base_amount_refunded>0</base_amount_refunded>
+            <base_discount_amount>0</base_discount_amount>
+            <base_discount_invoiced>0</base_discount_invoiced>
+            <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+            <base_original_price>72</base_original_price>
+            <base_price>34.95</base_price>
+            <base_price_incl_tax>34.95</base_price_incl_tax>
+            <base_row_invoiced>0</base_row_invoiced>
+            <base_row_total>34.95</base_row_total>
+            <base_row_total_incl_tax>34.95</base_row_total_incl_tax>
+            <base_tax_amount>0</base_tax_amount>
+            <base_tax_invoiced>0</base_tax_invoiced>
+            <created_at>2021-03-24 16:07:30</created_at>
+            <discount_amount>0</discount_amount>
+            <discount_invoiced>0</discount_invoiced>
+            <discount_percent>0</discount_percent>
+            <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+            <free_shipping>0</free_shipping>
+            <is_qty_decimal>0</is_qty_decimal>
+            <is_virtual>0</is_virtual>
+            <item_id>3661</item_id>
+            <name>4191</name>
+            <no_discount>0</no_discount>
+            <order_id>844</order_id>
+            <original_price>72</original_price>
+            <price>34.95</price>
+            <price_incl_tax>34.95</price_incl_tax>
+            <product_id>50203</product_id>
+            <product_option>
+                <extension_attributes>
+                    <configurable_item_options>
+                        <option_id>278</option_id>
+                        <option_value>16328</option_value>
+                    </configurable_item_options>
+                    <configurable_item_options>
+                        <option_id>1726</option_id>
+                        <option_value>17782</option_value>
+                    </configurable_item_options>
+                </extension_attributes>
+            </product_option>
+            <product_type>configurable</product_type>
+            <qty_canceled>0</qty_canceled>
+            <qty_invoiced>0</qty_invoiced>
+            <qty_ordered>1</qty_ordered>
+            <qty_refunded>0</qty_refunded>
+            <qty_returned>0</qty_returned>
+            <qty_shipped>0</qty_shipped>
+            <quote_item_id>13703</quote_item_id>
+            <row_invoiced>0</row_invoiced>
+            <row_total>34.95</row_total>
+            <row_total_incl_tax>34.95</row_total_incl_tax>
+            <row_weight>3.1973</row_weight>
+            <sku>123456</sku>
+            <store_id>1</store_id>
+            <tax_amount>0</tax_amount>
+            <tax_invoiced>0</tax_invoiced>
+            <tax_percent>0</tax_percent>
+            <updated_at>2021-03-24 16:12:17</updated_at>
+            <weight>3.1973</weight>
+        </items>
+    </shipping_assignments>
+    <syspro_id>123456</syspro_id>
+    <terms_code>27</terms_code>
+</extension_attributes>
+<global_currency_code>USD</global_currency_code>
+<grand_total>312.75</grand_total>
+<increment_id>000000862</increment_id>
+<is_virtual>0</is_virtual>
+<items>
+    <amount_refunded>0</amount_refunded>
+    <base_amount_refunded>0</base_amount_refunded>
+    <base_discount_amount>0</base_discount_amount>
+    <base_discount_invoiced>0</base_discount_invoiced>
+    <base_price>0</base_price>
+    <base_row_invoiced>0</base_row_invoiced>
+    <base_row_total>0</base_row_total>
+    <base_row_total_incl_tax>0</base_row_total_incl_tax>
+    <base_tax_amount>0</base_tax_amount>
+    <base_tax_invoiced>0</base_tax_invoiced>
+    <created_at>2021-03-24 16:07:30</created_at>
+    <discount_amount>0</discount_amount>
+    <discount_invoiced>0</discount_invoiced>
+    <discount_percent>0</discount_percent>
+    <extension_attributes>
+        <is_custom_price>false</is_custom_price>
+        <suggested_inventory_source>TX</suggested_inventory_source>
+        <unit_of_measure>DZ</unit_of_measure>
+        <unit_of_measure_price>34.95</unit_of_measure_price>
+        <unit_of_measure_qty>1</unit_of_measure_qty>
+    </extension_attributes>
+    <free_shipping>0</free_shipping>
+    <is_qty_decimal>0</is_qty_decimal>
+    <is_virtual>0</is_virtual>
+    <item_id>3658</item_id>
+    <name>4191-LG</name>
+    <no_discount>0</no_discount>
+    <order_id>844</order_id>
+    <original_price>0</original_price>
+    <parent_item>
+        <amount_refunded>0</amount_refunded>
+        <base_amount_refunded>0</base_amount_refunded>
+        <base_discount_amount>0</base_discount_amount>
+        <base_discount_invoiced>0</base_discount_invoiced>
+        <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+        <base_original_price>72</base_original_price>
+        <base_price>34.95</base_price>
+        <base_price_incl_tax>34.95</base_price_incl_tax>
+        <base_row_invoiced>0</base_row_invoiced>
+        <base_row_total>34.95</base_row_total>
+        <base_row_total_incl_tax>34.95</base_row_total_incl_tax>
+        <base_tax_amount>0</base_tax_amount>
+        <base_tax_invoiced>0</base_tax_invoiced>
+        <created_at>2021-03-24 16:07:30</created_at>
+        <discount_amount>0</discount_amount>
+        <discount_invoiced>0</discount_invoiced>
+        <discount_percent>0</discount_percent>
+        <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+        <extension_attributes>
+            <is_custom_price>false</is_custom_price>
+            <suggested_inventory_source>TX</suggested_inventory_source>
+            <unit_of_measure>DZ</unit_of_measure>
+            <unit_of_measure_price>34.95</unit_of_measure_price>
+            <unit_of_measure_qty>1</unit_of_measure_qty>
+        </extension_attributes>
+        <free_shipping>0</free_shipping>
+        <is_qty_decimal>0</is_qty_decimal>
+        <is_virtual>0</is_virtual>
+        <item_id>3655</item_id>
+        <name>4191</name>
+        <no_discount>0</no_discount>
+        <order_id>844</order_id>
+        <original_price>72</original_price>
+        <price>34.95</price>
+        <price_incl_tax>34.95</price_incl_tax>
+        <product_id>50203</product_id>
+        <product_option>
+            <extension_attributes>
+                <configurable_item_options>
+                    <option_id>278</option_id>
+                    <option_value>16328</option_value>
+                </configurable_item_options>
+                <configurable_item_options>
+                    <option_id>1726</option_id>
+                    <option_value>17800</option_value>
+                </configurable_item_options>
+            </extension_attributes>
+        </product_option>
+        <product_type>configurable</product_type>
+        <qty_canceled>0</qty_canceled>
+        <qty_invoiced>0</qty_invoiced>
+        <qty_ordered>1</qty_ordered>
+        <qty_refunded>0</qty_refunded>
+        <qty_returned>0</qty_returned>
+        <qty_shipped>0</qty_shipped>
+        <quote_item_id>13697</quote_item_id>
+        <row_invoiced>0</row_invoiced>
+        <row_total>34.95</row_total>
+        <row_total_incl_tax>34.95</row_total_incl_tax>
+        <row_weight>3.1311</row_weight>
+        <sku>123</sku>
+        <store_id>1</store_id>
+        <tax_amount>0</tax_amount>
+        <tax_invoiced>0</tax_invoiced>
+        <tax_percent>0</tax_percent>
+        <updated_at>2021-03-24 16:12:17</updated_at>
+        <weight>3.1311</weight>
+    </parent_item>
+    <parent_item_id>3655</parent_item_id>
+    <price>72</price>
+    <product_id>50209</product_id>
+    <product_type>simple</product_type>
+    <qty_canceled>0</qty_canceled>
+    <qty_invoiced>0</qty_invoiced>
+    <qty_ordered>1</qty_ordered>
+    <qty_refunded>0</qty_refunded>
+    <qty_returned>0</qty_returned>
+    <qty_shipped>0</qty_shipped>
+    <quote_item_id>13700</quote_item_id>
+    <row_invoiced>0</row_invoiced>
+    <row_total>0</row_total>
+    <row_total_incl_tax>0</row_total_incl_tax>
+    <row_weight>0</row_weight>
+    <sku>1234</sku>
+    <store_id>1</store_id>
+    <tax_amount>0</tax_amount>
+    <tax_invoiced>0</tax_invoiced>
+    <tax_percent>0</tax_percent>
+    <updated_at>2021-03-24 16:07:30</updated_at>
+    <weight>3.1311</weight>
+</items>
+<items>
+    <amount_refunded>0</amount_refunded>
+    <base_amount_refunded>0</base_amount_refunded>
+    <base_discount_amount>0</base_discount_amount>
+    <base_discount_invoiced>0</base_discount_invoiced>
+    <base_price>0</base_price>
+    <base_row_invoiced>0</base_row_invoiced>
+    <base_row_total>0</base_row_total>
+    <base_row_total_incl_tax>0</base_row_total_incl_tax>
+    <base_tax_amount>0</base_tax_amount>
+    <base_tax_invoiced>0</base_tax_invoiced>
+    <created_at>2021-03-24 16:07:30</created_at>
+    <discount_amount>0</discount_amount>
+    <discount_invoiced>0</discount_invoiced>
+    <discount_percent>0</discount_percent>
+    <extension_attributes>
+        <is_custom_price>false</is_custom_price>
+        <suggested_inventory_source>TX</suggested_inventory_source>
+        <unit_of_measure>DZ</unit_of_measure>
+        <unit_of_measure_price>34.95</unit_of_measure_price>
+        <unit_of_measure_qty>1</unit_of_measure_qty>
+    </extension_attributes>
+    <free_shipping>0</free_shipping>
+    <is_qty_decimal>0</is_qty_decimal>
+    <is_virtual>0</is_virtual>
+    <item_id>3664</item_id>
+    <name>4191-XL</name>
+    <no_discount>0</no_discount>
+    <order_id>844</order_id>
+    <original_price>0</original_price>
+    <parent_item>
+        <amount_refunded>0</amount_refunded>
+        <base_amount_refunded>0</base_amount_refunded>
+        <base_discount_amount>0</base_discount_amount>
+        <base_discount_invoiced>0</base_discount_invoiced>
+        <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+        <base_original_price>72</base_original_price>
+        <base_price>34.95</base_price>
+        <base_price_incl_tax>34.95</base_price_incl_tax>
+        <base_row_invoiced>0</base_row_invoiced>
+        <base_row_total>34.95</base_row_total>
+        <base_row_total_incl_tax>34.95</base_row_total_incl_tax>
+        <base_tax_amount>0</base_tax_amount>
+        <base_tax_invoiced>0</base_tax_invoiced>
+        <created_at>2021-03-24 16:07:30</created_at>
+        <discount_amount>0</discount_amount>
+        <discount_invoiced>0</discount_invoiced>
+        <discount_percent>0</discount_percent>
+        <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+        <extension_attributes>
+            <is_custom_price>false</is_custom_price>
+            <suggested_inventory_source>TX</suggested_inventory_source>
+            <unit_of_measure>DZ</unit_of_measure>
+            <unit_of_measure_price>34.95</unit_of_measure_price>
+            <unit_of_measure_qty>1</unit_of_measure_qty>
+        </extension_attributes>
+        <free_shipping>0</free_shipping>
+        <is_qty_decimal>0</is_qty_decimal>
+        <is_virtual>0</is_virtual>
+        <item_id>3661</item_id>
+        <name>4191</name>
+        <no_discount>0</no_discount>
+        <order_id>844</order_id>
+        <original_price>72</original_price>
+        <price>34.95</price>
+        <price_incl_tax>34.95</price_incl_tax>
+        <product_id>50203</product_id>
+        <product_option>
+            <extension_attributes>
+                <configurable_item_options>
+                    <option_id>278</option_id>
+                    <option_value>16328</option_value>
+                </configurable_item_options>
+                <configurable_item_options>
+                    <option_id>1726</option_id>
+                    <option_value>17782</option_value>
+                </configurable_item_options>
+            </extension_attributes>
+        </product_option>
+        <product_type>configurable</product_type>
+        <qty_canceled>0</qty_canceled>
+        <qty_invoiced>0</qty_invoiced>
+        <qty_ordered>1</qty_ordered>
+        <qty_refunded>0</qty_refunded>
+        <qty_returned>0</qty_returned>
+        <qty_shipped>0</qty_shipped>
+        <quote_item_id>13703</quote_item_id>
+        <row_invoiced>0</row_invoiced>
+        <row_total>34.95</row_total>
+        <row_total_incl_tax>34.95</row_total_incl_tax>
+        <row_weight>3.1973</row_weight>
+        <sku>12345</sku>
+        <store_id>1</store_id>
+        <tax_amount>0</tax_amount>
+        <tax_invoiced>0</tax_invoiced>
+        <tax_percent>0</tax_percent>
+        <updated_at>2021-03-24 16:12:17</updated_at>
+        <weight>3.1973</weight>
+    </parent_item>
+    <parent_item_id>3661</parent_item_id>
+    <price>72</price>
+    <product_id>50206</product_id>
+    <product_type>simple</product_type>
+    <qty_canceled>0</qty_canceled>
+    <qty_invoiced>0</qty_invoiced>
+    <qty_ordered>1</qty_ordered>
+    <qty_refunded>0</qty_refunded>
+    <qty_returned>0</qty_returned>
+    <qty_shipped>0</qty_shipped>
+    <quote_item_id>13706</quote_item_id>
+    <row_invoiced>0</row_invoiced>
+    <row_total>0</row_total>
+    <row_total_incl_tax>0</row_total_incl_tax>
+    <row_weight>0</row_weight>
+    <sku>123456</sku>
+    <store_id>1</store_id>
+    <tax_amount>0</tax_amount>
+    <tax_invoiced>0</tax_invoiced>
+    <tax_percent>0</tax_percent>
+    <updated_at>2021-03-24 16:07:30</updated_at>
+    <weight>3.1973</weight>
+</items>
+<items>
+    <amount_refunded>0</amount_refunded>
+    <base_amount_refunded>0</base_amount_refunded>
+    <base_discount_amount>0</base_discount_amount>
+    <base_discount_invoiced>0</base_discount_invoiced>
+    <base_price>0</base_price>
+    <base_row_invoiced>0</base_row_invoiced>
+    <base_row_total>0</base_row_total>
+    <base_row_total_incl_tax>0</base_row_total_incl_tax>
+    <base_tax_amount>0</base_tax_amount>
+    <base_tax_invoiced>0</base_tax_invoiced>
+    <created_at>2021-03-24 16:07:30</created_at>
+    <discount_amount>0</discount_amount>
+    <discount_invoiced>0</discount_invoiced>
+    <discount_percent>0</discount_percent>
+    <extension_attributes>
+        <is_custom_price>false</is_custom_price>
+        <suggested_inventory_source>TX</suggested_inventory_source>
+        <unit_of_measure>PR</unit_of_measure>
+        <unit_of_measure_price>5.00</unit_of_measure_price>
+        <unit_of_measure_qty>12</unit_of_measure_qty>
+    </extension_attributes>
+    <free_shipping>0</free_shipping>
+    <is_qty_decimal>0</is_qty_decimal>
+    <is_virtual>0</is_virtual>
+    <item_id>3670</item_id>
+    <name>4894-LG</name>
+    <no_discount>0</no_discount>
+    <order_id>844</order_id>
+    <original_price>0</original_price>
+    <parent_item>
+        <amount_refunded>0</amount_refunded>
+        <base_amount_refunded>0</base_amount_refunded>
+        <base_discount_amount>0</base_discount_amount>
+        <base_discount_invoiced>0</base_discount_invoiced>
+        <base_discount_tax_compensation_amount>0</base_discount_tax_compensation_amount>
+        <base_original_price>5</base_original_price>
+        <base_price>5</base_price>
+        <base_price_incl_tax>5</base_price_incl_tax>
+        <base_row_invoiced>0</base_row_invoiced>
+        <base_row_total>60</base_row_total>
+        <base_row_total_incl_tax>60</base_row_total_incl_tax>
+        <base_tax_amount>0</base_tax_amount>
+        <base_tax_invoiced>0</base_tax_invoiced>
+        <created_at>2021-03-24 16:07:30</created_at>
+        <discount_amount>0</discount_amount>
+        <discount_invoiced>0</discount_invoiced>
+        <discount_percent>0</discount_percent>
+        <discount_tax_compensation_amount>0</discount_tax_compensation_amount>
+        <extension_attributes>
+            <is_custom_price>false</is_custom_price>
+            <suggested_inventory_source>TX</suggested_inventory_source>
+            <unit_of_measure>PR</unit_of_measure>
+            <unit_of_measure_price>5.00</unit_of_measure_price>
+            <unit_of_measure_qty>12</unit_of_measure_qty>
+        </extension_attributes>
+        <free_shipping>0</free_shipping>
+        <is_qty_decimal>0</is_qty_decimal>
+        <is_virtual>0</is_virtual>
+        <item_id>3667</item_id>
+        <name>4894</name>
+        <no_discount>0</no_discount>
+        <order_id>844</order_id>
+        <original_price>5</original_price>
+        <price>5</price>
+        <price_incl_tax>5</price_incl_tax>
+        <product_id>49522</product_id>
+        <product_option>
+            <extension_attributes>
+                <configurable_item_options>
+                    <option_id>278</option_id>
+                    <option_value>27364</option_value>
+                </configurable_item_options>
+                <configurable_item_options>
+                    <option_id>1726</option_id>
+                    <option_value>17800</option_value>
+                </configurable_item_options>
+            </extension_attributes>
+        </product_option>
+        <product_type>configurable</product_type>
+        <qty_canceled>0</qty_canceled>
+        <qty_invoiced>0</qty_invoiced>
+        <qty_ordered>12</qty_ordered>
+        <qty_refunded>0</qty_refunded>
+        <qty_returned>0</qty_returned>
+        <qty_shipped>0</qty_shipped>
+        <quote_item_id>13709</quote_item_id>
+        <row_invoiced>0</row_invoiced>
+        <row_total>60</row_total>
+        <row_total_incl_tax>60</row_total_incl_tax>
+        <row_weight>2.8683</row_weight>
+        <sku>1234567</sku>
+        <store_id>1</store_id>
+        <tax_amount>0</tax_amount>
+        <tax_invoiced>0</tax_invoiced>
+        <tax_percent>0</tax_percent>
+        <updated_at>2021-03-24 16:12:17</updated_at>
+        <weight>0.239</weight>
+    </parent_item>
+    <parent_item_id>3667</parent_item_id>
+    <price>5</price>
+    <product_id>49531</product_id>
+    <product_type>simple</product_type>
+    <qty_canceled>0</qty_canceled>
+    <qty_invoiced>0</qty_invoiced>
+    <qty_ordered>12</qty_ordered>
+    <qty_refunded>0</qty_refunded>
+    <qty_returned>0</qty_returned>
+    <qty_shipped>0</qty_shipped>
+    <quote_item_id>13712</quote_item_id>
+    <row_invoiced>0</row_invoiced>
+    <row_total>0</row_total>
+    <row_total_incl_tax>0</row_total_incl_tax>
+    <row_weight>0</row_weight>
+    <sku>12345678</sku>
+    <store_id>1</store_id>
+    <tax_amount>0</tax_amount>
+    <tax_invoiced>0</tax_invoiced>
+    <tax_percent>0</tax_percent>
+    <updated_at>2021-03-24 16:07:30</updated_at>
+    <weight>0.239</weight>
+</items>
+<order_currency_code>USD</order_currency_code>
+<payment>
+    <account_status/>
+    <amount_authorized>312.75</amount_authorized>
+    <amount_ordered>312.75</amount_ordered>
+    <base_amount_authorized>312.75</base_amount_authorized>
+    <base_amount_ordered>312.75</base_amount_ordered>
+    <base_shipping_amount>0</base_shipping_amount>
+    <entity_id>844</entity_id>
+    <method>authnetcim</method>
+    <parent_id>844</parent_id>
+    <shipping_amount>0</shipping_amount>
+</payment>
+<quote_id>4511</quote_id>
+<remote_ip>64.149.0.6</remote_ip>
+<shipping_amount>0</shipping_amount>
+<shipping_description>Service Option: UPS Ground. Shipping Account: Will Call</shipping_description>
+<shipping_discount_amount>0</shipping_discount_amount>
+<shipping_discount_tax_compensation_amount>0</shipping_discount_tax_compensation_amount>
+<shipping_incl_tax>0</shipping_incl_tax>
+<shipping_tax_amount>0</shipping_tax_amount>
+<state>processing</state>
+<status>pending</status>
+<store_currency_code>USD</store_currency_code>
+<store_id>1</store_id>
+<store_name>Main Website
+Website</store_name>
+<store_to_base_rate>0</store_to_base_rate>
+<store_to_order_rate>0</store_to_order_rate>
+<subtotal>312.75</subtotal>
+<subtotal_incl_tax>312.75</subtotal_incl_tax>
+<tax_amount>0</tax_amount>
+<total_due>312.75</total_due>
+<total_item_count>8</total_item_count>
+<total_qty_ordered>41</total_qty_ordered>
+<updated_at>2021-03-24 16:28:58</updated_at>
+<weight>26.3334</weight>
